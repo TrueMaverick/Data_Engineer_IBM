@@ -1,9 +1,11 @@
 # Data_Engineer_IBM
 This repo holds all projects done during the IBM Data Engineering Professional Certificate Course
 
-Toll Plaza ETL Project Description:
+## Project 1: Toll Plaza ETL 
 
-Role situation:A data engineer at a data analytics consulting company has been assigned to a project that aims to de-congest the national 
+Project Description
+
+Role/situation: A data engineer at a data analytics consulting company has been assigned to a project that aims to de-congest the national 
 highways by analyzing the road traffic data from different toll plazas. 
 Each highway is operated by a different toll operator with different IT setup that use different file formats.
 
