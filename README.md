@@ -17,7 +17,8 @@ As a vehicle passes a toll plaza, the vehicle's data like vehicle_id,vehicle_typ
 and timestamp are streamed to Kafka. 
 In the second part, the job is to create a data pipe line that collects the streaming data and loads it into a database.
 
-Files:
-ETL_Airflow.py - To define airflow DAGs
-streaming_data_reader.py - To create a streaming data pipeline using kafka
-toll_traffic_generator.py - To create a streaming data generator simulating data being sent from toll plazas
+#### Files
+
+- ETL_Airflow.py - To define airflow DAGs
+- streaming_data_reader.py - To create a streaming data pipeline using kafka
+- toll_traffic_generator.py - To create a streaming data generator simulating data being sent from toll plazas
