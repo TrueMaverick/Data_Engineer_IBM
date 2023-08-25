@@ -20,5 +20,7 @@ In the second part, the job is to create a data pipe line that collects the stre
 #### Files
 
 - ETL_Airflow.py - To define airflow DAGs
+  
 - streaming_data_reader.py - To create a streaming data pipeline using kafka
+  
 - toll_traffic_generator.py - To create a streaming data generator simulating data being sent from toll plazas
