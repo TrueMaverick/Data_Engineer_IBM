@@ -25,7 +25,7 @@ In the second part, the job is to create a data pipe line that collects the stre
   
 - toll_traffic_generator.py - To create a streaming data generator simulating data being sent from toll plazas
 
-## Project1 - Weather Reporting ETL 
+## Project2 - Weather Reporting ETL 
 
 Project Description
 
