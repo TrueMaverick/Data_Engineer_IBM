@@ -34,3 +34,14 @@ Role/Scenario: I've been tasked by my team to create an automated Extract, Trans
 As a proof-of-concept (POC), I am only required to do this for a single station and one source to begin with. For each day at noon (local time), I will gather both the actual temperature and the temperature forecasted for noon on the following day for Casablanca, Morocco.
 
 At a later stage, the team anticipates extending the report to include lists of locations, different forecasting sources, different update frequencies, and other weather metrics such as wind speed and direction, precipitation, and visibility.
+
+### Data source
+For this practice project, the weather data package used was provided by the open source project wttr.in, a web service that provides weather forecast information in a simple and text-based format. 
+
+#### Files
+
+- forecast_accuracy.sh - Bash script to report historical forecasting accuracy
+  
+- reporting_fc.sh - Bash script to report weekly statistics of historical forecasting accuracy
+  
+- weather_download_etl.sh - ETL bash script to create a raw weather report.
