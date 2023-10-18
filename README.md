@@ -44,7 +44,7 @@ Create another script to measure and report the accuracy of the forecasted tempe
 ### B) To report weekly statistics of historical forecasting accuracy
 To download a synthetic historical forecasting accuracy report and calculate some basic statistics based on the latest week of data.
 
-Source - 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-LX0117EN-Coursera/labs/synthetic_historical_fc_accuracy.tsv'
+Source - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-LX0117EN-Coursera/labs/synthetic_historical_fc_accuracy.tsv
 
 ### Data source
 For this practice project, the weather data package used was provided by the open source project wttr.in, a web service that provides weather forecast information in a simple and text-based format. 
