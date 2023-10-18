@@ -35,6 +35,16 @@ As a proof-of-concept (POC), I am only required to do this for a single station 
 
 At a later stage, the team anticipates extending the report to include lists of locations, different forecasting sources, different update frequencies, and other weather metrics such as wind speed and direction, precipitation, and visibility.
 
+### A) Extract and load the required data
+Create an ETL shell script to gather weather data into a report
+
+### B) To report historical forecasting accuracy
+Create another script to measure and report the accuracy of the forecasted temperatures against the actuals
+
+### B) To report weekly statistics of historical forecasting accuracy
+To download a synthetic historical forecasting accuracy report and calculate some basic statistics based on the latest week of data.
+Source - 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-LX0117EN-Coursera/labs/synthetic_historical_fc_accuracy.tsv'
+
 ### Data source
 For this practice project, the weather data package used was provided by the open source project wttr.in, a web service that provides weather forecast information in a simple and text-based format. 
 
